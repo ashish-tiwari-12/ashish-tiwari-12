@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="[https://raw.githubusercontent.com/ashish-tiwari-12/ashish-tiwari-12/main/assets/banner.png](https://github.com/ashish-tiwari-12/ashish-tiwari-12/blob/main/github-header-banner.png)" alt="Ashish Kumar Banner" width="100%">
+  </a>
+</p>
 # 💫 About Me:
 🔭 **Currently working on:** Full-Stack Web Applications, AI-Powered Platforms, and Scalable MERN Stack Projects<br><br>👯 **Looking to collaborate on:** Open-Source Projects in Full-Stack Development, AI Applications, and Developer Tools<br><br>🤝 **Looking for help with:** Distributed Systems, Advanced Backend Architecture, and Cloud-Native Development<br><br>🌱 **Currently learning:** System Design, Next.js, Cloud Technologies, and Multi-Agent AI Systems<br><br>💬 **Ask me about:** JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, REST APIs, and Full-Stack Development<br><br>⚡ **Fun fact:** I enjoy building real-world products that combine modern web technologies with AI to solve practical problems 🚀<br>
 
