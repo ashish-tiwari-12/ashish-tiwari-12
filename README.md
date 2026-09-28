@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://your-portfolio-link.com">
-    <img src="https://github.com/ashish-tiwari-12/ashish-tiwari-12/blob/main/github-header-banner.png" alt="Ashish Kumar Banner" width="100%">
+    <img src="https://github.com/ashish-tiwari-12/ashish-tiwari-12/blob/main/github-header-banner%20(1).png" alt="Ashish Kumar Banner" width="100%">
   </a>
 </p>
 # 💫 About Me:
