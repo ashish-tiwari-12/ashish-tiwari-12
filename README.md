@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://portfolio-nu-two-2tt86nkbcc.vercel.app/">
     <img src="https://github.com/ashish-tiwari-12/ashish-tiwari-12/blob/main/github-header-banner%20(1).png" alt="Ashish Kumar Banner" width="100%">
   </a>
 </p>
@@ -29,12 +29,9 @@ Adaptive Multi-Agent AI platform with dynamic task decomposition, shared memory 
 Full-stack MERN application with authentication, cart management and product workflows.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ashish-tiwari-12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ashish-tiwari-12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashish-tiwari-12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashish-tiwari-12&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
